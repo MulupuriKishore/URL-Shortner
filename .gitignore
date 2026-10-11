@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Secrets
+.env
+.env.*
+
+# SQLite databases
+*.db
+*.sqlite
+*.sqlite3
+instance/
+
+# HTTPS certificates and private keys
+*.pem
+*.key
+*.crt
+
+# Editor and OS files
+.vscode/
+.DS_Store
+Thumbs.db
